@@ -6,4 +6,4 @@
 | [Maze Solving](https://www.youtube.com/watch?v=rop0W4QDOUI) | Only incidentally linked to the Comp-111, displays a potential maze solver. No explicit links to agents or AI | YT, Video, Computerphile |
 | [Neural Networks](https://www.youtube.com/playlist?list=PLzH6n4zXuckoezZuZPnXXbvN-9jMFV0qh) | A shorter series focusing on deep learning and neural networks | YT, Playlist, Computerphile |
 | [The Coding Train](https://www.youtube.com/c/TheCodingTrain/playlists?view=1&sort=dd&shelf_id=0) | A channel dedicated to coding challenges and education, there are a few different videos and series based around AI, search algorithms, and neural networks. Focused on practical application but has some theory too | YT, Channel, The Coding Train |
-|  |  |  |
+| [Robert Miles](https://www.youtube.com/c/RobertMilesAI/videos) | A channel dedicated to explaining AI | YT, Channel, Robert Miles |
